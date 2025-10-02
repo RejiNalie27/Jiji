@@ -1,0 +1,8 @@
+.Jian{
+    display: flex;
+    font-size: 100px;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
